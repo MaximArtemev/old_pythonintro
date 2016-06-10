@@ -1,2 +1,2 @@
-# schoolboys_python
+# python intro
 A nice guide to Python
